@@ -33,8 +33,8 @@
 
 - 🧠 Machine Learning com Python
 - 📊 Dashboards em Power BI
-- 🌐 Projetos com Vue.js e Django
-
+- 🌐 Projetos com Django
+- 🧠 Redes Neurais Convolucionais
 ---
 
 
