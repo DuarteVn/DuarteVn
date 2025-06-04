@@ -1,4 +1,4 @@
-<h1 align="center">+ Oi, seja bem-vindo</h1>
+<h1 align="center"> Olá, seja bem-vindo</h1>
 
 <p align="center">Estudante de Data Science & Analytics, apaixonado por tecnologia, dados e desenvolvimento. Em jornada para unir inteligência artificial com soluções criativas.</p>
 
