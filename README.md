@@ -37,5 +37,4 @@
 
 ---
 
-<!-- Snake contribution graph -->
-![snake gif](https://github.com/DuarteVn/DuarteVn/blob/output/github-contribution-grid-snake.svg)
+
