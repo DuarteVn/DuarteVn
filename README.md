@@ -1,6 +1,12 @@
 <h1 align="center">👋 Olá, seja muito bem-vindo ao meu universo de dados!</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=📊+Profissional+em+formação+em+Data+Science+%26+Analytics" alt="Typing SVG">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=🧠+Atuação+com+Machine+Learning+e+Redes+Neurais" alt="Typing SVG">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=ML+%7C+Redes+Neurais+%7C+Full+Stack+%7C+Data+Science" alt="Typing SVG">
 </p>
 
