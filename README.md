@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=🧠+Machine+Learning+e+Redes+Neurais" alt="Typing SVG">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=ML+%7C+Redes+Neurais+%7C+Full+Stack+%7C+Data+Science" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=+Full+Stack+" alt="Typing SVG">
 </p>
 
 
