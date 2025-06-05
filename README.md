@@ -13,10 +13,6 @@
   Estudante de <strong>Data Science & Analytics</strong>, apaixonado por <strong>tecnologia</strong>, <strong>dados</strong> e <strong>desenvolvimento</strong>.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
-</p>
-
 ---
 
 ### 🌍 Vamos nos conectar?
@@ -40,6 +36,10 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
 ---
