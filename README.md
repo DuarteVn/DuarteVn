@@ -1,8 +1,9 @@
 <h1 align="center">👋 Olá, seja muito bem-vindo ao meu universo de dados!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&multiline=true&lines=🚀+Data+Science+🧠+Machine+Learning+%7C+Dashboards+%7C+Dev+FullStack;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F00FF&center=true&vCenter=true&multiline=true&lines=🧠+Machine+Learning;🧬+Redes+Neurais;💻+Dev+Full+Stack;📊+Data+Science+em+ação" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   Estudante de <strong>Data Science & Analytics</strong>, apaixonado por <strong>tecnologia</strong>, <strong>dados</strong> e <strong>desenvolvimento</strong>.
