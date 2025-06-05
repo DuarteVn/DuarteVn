@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, seja bem-vindo!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=+Full+Stack+" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=🌍+Full+Stack+" alt="Typing SVG">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=📊+Data+Science+%26+Analytics" alt="Typing SVG">
