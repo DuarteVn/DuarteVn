@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, seja muito bem-vindo ao meu universo de dados!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&multiline=true&lines=🧠+Machine+Learning;🧬+Redes+Neurais;💻+Full+Stack+Developer;📊+Data+Science" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=ML+%7C+Redes+Neurais+%7C+Full+Stack+%7C+Data+Science" alt="Typing SVG">
 </p>
 
 
@@ -28,9 +28,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  
 </p>
 
 ---
