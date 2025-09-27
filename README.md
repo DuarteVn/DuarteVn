@@ -68,5 +68,5 @@
 - 🎓 Já fui de **veterinária** para o mundo dos dados — troquei bisturi por pandas hahahah. 🐼
 ---
 
----
+
 
