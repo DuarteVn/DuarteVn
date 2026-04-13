@@ -1,72 +1,47 @@
-<h1 align="center">👋 Olá, seja bem-vindo!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=📊+Data+Science+%26+Analytics" alt="Typing SVG">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&center=true&vCenter=true&lines=🧠+Machine+Learning+e+Redes+Neurais" alt="Typing SVG">
-</p>
-
-
-
-<p align="center">
-  <strong>Data Scientist</strong>, apaixonado por <strong>tecnologia</strong>, <strong>dados</strong> e <strong>desenvolvimento</strong>.
-</p>
+Vinícius Duarte
 
 ---
 
-### 🌍 Vamos nos conectar?
+## About
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/duarte-vinicius/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:viniciusduarte18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Data Scientist focused on **Machine Learning**, **Deep Learning**, and **Generative AI**.
+Currently building expertise in computer vision (CNNs) and cloud-based ML pipelines on GCP.
+
+Previously studied veterinary medicine — traded scalpels for tensors. 🐼
 
 ---
 
-### 🧠 Tecnologias
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  
-</p>
+**Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Data & Analytics**
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Cloud & Web**
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+---
+
+## Current Focus
+
+- Convolutional Neural Networks (CNNs) with TensorFlow/Keras
+- ML pipelines and model deployment on GCP
+- Interactive dashboards with Power BI
+- Generative AI applications
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuarteVn&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteVn&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🎯 Em foco agora
-
-- 🧠 Machine Learning com Python e Scikit-learn
-- 📊 Dashboards interativos com Power BI
-- 🌐 Desenvolvimento web com Django + Vue.js
-- 🧠 Convolutional Neural Networks (CNNs) com TensorFlow/Keras
-- ☁️ Projetos em nuvem com GCP
-
----
-
-### 🎮 Curiosidades
-
-- 🎓 Já fui de **veterinária** para o mundo dos dados — troquei bisturi por pandas hahahah. 🐼
----
 
 
-
+  
+  
