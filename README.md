@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  Estudante de <strong>Data Science & Analytics</strong>, apaixonado por <strong>tecnologia</strong>, <strong>dados</strong> e <strong>desenvolvimento</strong>.
+  <strong>Data Scientist</strong>, apaixonado por <strong>tecnologia</strong>, <strong>dados</strong> e <strong>desenvolvimento</strong>.
 </p>
 
 ---
